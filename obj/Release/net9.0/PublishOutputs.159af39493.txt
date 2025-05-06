@@ -1,0 +1,9 @@
+C:\dotnet-demo\out\dotnetproj.exe
+C:\dotnet-demo\out\appsettings.Development.json
+C:\dotnet-demo\out\appsettings.json
+C:\dotnet-demo\out\dotnetproj.dll
+C:\dotnet-demo\out\dotnetproj.deps.json
+C:\dotnet-demo\out\dotnetproj.runtimeconfig.json
+C:\dotnet-demo\out\dotnetproj.pdb
+C:\dotnet-demo\out\Microsoft.AspNetCore.OpenApi.dll
+C:\dotnet-demo\out\Microsoft.OpenApi.dll
